@@ -1,0 +1,7 @@
+A) Modify the application to store the data on instance store volumes. Reattach the volumes while restarting
+them.
+B) Snapshot the EC2 instances before stopping them. Restore the snapshot after restarting the instances.
+C) Run the applications on EC2 instances enabled for hibernation. Hibernate the instances before the 2-
+week company shutdown.
+D) Note the Availability Zone for each EC2 instance before stopping it. Restart the instances in the same
+Availability Zones after the 2-week company shutdown.

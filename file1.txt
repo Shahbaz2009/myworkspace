@@ -1,0 +1,6 @@
+A) Configure a NAT gateway in a public subnet.
+B) Define a custom route table with a route to the NAT gateway for internet traffic and associate it with the
+private subnets for the application tier.
+C) Assign Elastic IP addresses to the EC2 instances.
+D) Define a custom route table with a route to the internet gateway for internet traffic and associate it with
+the private subnets for the application tier.
